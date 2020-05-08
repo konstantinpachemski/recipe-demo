@@ -52,6 +52,7 @@ const AddRecipeContainer = (props) => {
                                                name="time"
                                                type={'time'}
                                                defaultValue="00:00"
+                                               ampm={false}
                                                error={!!props.errors.time}
                                                inputRef={props.register({required: true})}/>
                                 </Grid>
