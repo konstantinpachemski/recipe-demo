@@ -29,7 +29,7 @@ const ListRecipesContainer = (props) => {
                                 variant={"caption"}
                                 gutterBottom
                             >
-                                #{index}
+                                #{index+1}
                             </Typography>
                             <Typography variant="h5" component="h2">
                                 {recipe.name}
