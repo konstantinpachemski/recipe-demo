@@ -1,3 +1,19 @@
+React-Redux app for creating and viweing recipes.
+Preview demo deployed on Heroku: https://recipe-demo-kp.herokuapp.com/
+
+![Screenshot1](https://imgur.com/p0MB516)
+![Screenshot2](https://imgur.com/vd30mBq)
+![Screenshot3](https://imgur.com/gGmQxOv)
+
+## Tech:
+React Redux - https://react-redux.js.org/
+Redux Toolkit - https://redux-toolkit.js.org/
+React Router - https://reactrouter.com/
+React Hook Form - https://react-hook-form.com/
+Material UI - https://material-ui.com/
+
+## Usage documentation:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
