@@ -1,4 +1,4 @@
-React-Redux app for creating and viweing recipes.
+React-Redux app for creating and viewing recipes.
 
 Preview demo deployed on Heroku: https://recipe-demo-kp.herokuapp.com/
 
